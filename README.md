@@ -1,7 +1,6 @@
 # Skill Test 2023
 
-JavaScriptで実施。
-環境は`node@16.17.0`。
+JavaScriptで実施。環境は`node@16.17.0`。
 
 ## Question1
 
