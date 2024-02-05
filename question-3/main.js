@@ -22,6 +22,7 @@ function main() {
 
   const leastSquaresErrors = {};
 
+  // TODO: 未完成
   for (let i = 0; i < dataCount; i++) {
     leastSquaresErrors[i] = [];
 
@@ -29,8 +30,6 @@ function main() {
       leastSquaresErrors[i].push(calculateLeastSquaresError(points.slice(i, j + 1)));
     }
   }
-
-  console.log(leastSquaresErrors);
 }
 
 function calculateLeastSquaresError(points) {
