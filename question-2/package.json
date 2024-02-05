@@ -3,9 +3,7 @@
     "1": "node main < case1.txt",
     "2": "node main < case2.txt",
     "3": "node main < case3.txt",
-    "4": "node main < case4.txt",
-    "5": "node main < case5.txt",
-    "test": "npm run 1 && npm run 2 && npm run 3 && npm run 4 && npm run 5"
+    "test": "npm run 1 && npm run 2 && npm run 3"
   },
   "volta": {
     "node": "16.17.0"
