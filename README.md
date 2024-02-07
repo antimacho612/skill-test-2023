@@ -56,6 +56,36 @@ npm run 3
 
 ## Question3（未完成）
 
+### 実行
+
+```bash
+cd ./question-3
+
+# ケース1
+npm run 1
+
+# ケース2
+npm run 2
+
+# ケース3
+npm run 3
+```
+
 - 二乗誤差の算出ロジックは実装
 
 ## Question4（未完成）
+
+### 実行
+
+```bash
+cd ./question-4
+
+# ケース1
+npm run 1
+
+# ケース2
+npm run 2
+
+# ケース3
+npm run 3
+```
