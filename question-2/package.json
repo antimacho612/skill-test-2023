@@ -4,8 +4,5 @@
     "2": "node main < case2.txt",
     "3": "node main < case3.txt",
     "test": "npm run 1 && npm run 2 && npm run 3"
-  },
-  "volta": {
-    "node": "16.17.0"
   }
 }
