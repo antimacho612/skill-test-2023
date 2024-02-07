@@ -58,4 +58,4 @@ npm run 3
 
 - 二乗誤差の算出ロジックは実装
 
-## Question4（未着手）
+## Question4（未完成）
